@@ -11,3 +11,4 @@ this repository contains scripts to make the process smoother and more efficient
 
 - [adding ssh keys to a github account](https://github.com/njeru-codes/collection-of-installation-scripts/blob/main/scripts/github-ssh.sh)
     
+- [installing metaspoilt](https://github.com/njeru-codes/collection-of-installation-scripts/blob/main/scripts/metaspoilt.sh)
