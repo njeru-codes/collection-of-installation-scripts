@@ -14,3 +14,4 @@ this repository contains scripts to make the process smoother and more efficient
 - [installing metaspoilt](https://github.com/njeru-codes/collection-of-installation-scripts/blob/main/scripts/metaspoilt.sh)
 
 - [codium install](https://github.com/njeru-codes/collection-of-installation-scripts/blob/main/codium/install.sh)
+- [install aws cli](https://github.com/njeru-codes/collection-of-installation-scripts/blob/main/aws_cli.sh)
