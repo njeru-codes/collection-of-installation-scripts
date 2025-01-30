@@ -18,6 +18,12 @@ to uninstall, run the Wazuh installation assistant using the option -u or –-un
 ```bash
 sudo bash ./wazuh-install.sh --uninstall
 ```
+you can edit the configuration file here
+```bash
+sudo nano /etc/wazuh-dashboard/opensearch_dashboards.yml
+
+```
+
 it is recommended to disable wazuh updates to prevent accidenta upgrades that could break environment
 ```bash
 sed -i "s/^deb /#deb /" /etc/apt/sources.list.d/wazuh.list
@@ -44,6 +50,7 @@ sudo systemctl start wazuh-agent
 sudo sed -i "s/^deb/#deb/" /etc/apt/sources.list.d/wazuh.list
 sudo apt update
 ```
+
 
 agent on windows
 ```
