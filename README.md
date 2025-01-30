@@ -15,3 +15,5 @@ this repository contains scripts to make the process smoother and more efficient
 
 - [codium install](https://github.com/njeru-codes/collection-of-installation-scripts/blob/main/codium/install.sh)
 - [install aws cli](https://github.com/njeru-codes/collection-of-installation-scripts/blob/main/aws_cli.sh)
+
+-[ install & uninstall wazuh](https://github.com/njeru-codes/collection-of-installation-scripts/tree/main/wazuh)
