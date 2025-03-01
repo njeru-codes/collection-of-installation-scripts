@@ -10,3 +10,13 @@ cd kiterunner
 make build
 sudo mv dist/kr /usr/local/bin/
 ```
+
+## usage 
+getting the inbuilt wordlist
+```bash
+kr wordlist list
+```
+sample usage 
+```bash
+kr scan https://app.target.com -A=raft-large-directories-lowercase.txt
+```
