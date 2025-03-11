@@ -1,0 +1,5 @@
+# installing mobsf for mobile security labs
+
+sudo apt install docker.io -y
+sudo docker pull opensecurity/mobile-security-framework-mobsf
+sudo docker run -it --rm -p 8000:8000 opensecurity/mobile-security-framework-mobsf:latest
