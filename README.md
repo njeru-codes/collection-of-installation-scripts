@@ -20,3 +20,4 @@ this repository contains scripts to make the process smoother and more efficient
 - [kiterunner](https://github.com/njeru-codes/collection-of-installation-scripts/tree/main/kiterunner)
 - [genymotion emulator](https://github.com/njeru-codes/collection-of-installation-scripts/blob/main/genymotion/install.sh)
 - [mobSF](https://github.com/njeru-codes/collection-of-installation-scripts/blob/main/installs/MobSF/install)
+- [wordpress install](https://github.com/njeru-codes/collection-of-installation-scripts/blob/main/wordpress/wordpress-install.yml)
